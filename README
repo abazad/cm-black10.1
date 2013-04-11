@@ -1,0 +1,7 @@
+Unofficial CyanogenMod themed black
+
+modified manifest for CM-10.1
+for replacing manifest.xml file with mine
+open your CM-10.1 folder hit ctrl+h 
+go into your .repo folder and delete the CM-10.1 manifest.xml file
+and add my manifest.xml......then from terminal repo sync as normal 
