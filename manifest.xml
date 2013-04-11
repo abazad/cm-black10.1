@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="github"
-            fetch="git://github.com/swiperrat/" />
-
   <remote  name="aosp"
            fetch="https://android.googlesource.com" />
 
@@ -297,7 +294,7 @@
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
-  <project path="packages/apps/OTAUpdateCenter" name="swiperrat/packages_apps_OTAUpdateCenter" remote="github" revision="jb-4.2" />
+  <project path="packages/apps/OTAUpdateCenter" name="swiperrat/packages_apps_OTAUpdateCenter" remote="github" revision="jb" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PerformanceControl" name="swiperrat/packages_apps_PerformanceControl" remote="github" revision="jb-mr1" />
   <project path="packages/apps/Phone" name="CyanogenMod/android_packages_apps_Phone" />
